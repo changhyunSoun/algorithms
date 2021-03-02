@@ -2,8 +2,7 @@
  - Leetcode #125
  
  
- ## Given a string `s`, determine if it is a palindrome, 
- ## considering only alphanumeric characters and ignoring cases.
+ ## Given a string `s`, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
  
  **Example 1:**
  ```
@@ -19,7 +18,7 @@
  ```
  
  ## Solution
-  - comparing left & right if it is equal
+  - using pop(), pop(0) to check if left and right are equal
   
   ```python
   def isPalindrome(self, s: str) -> bool:
