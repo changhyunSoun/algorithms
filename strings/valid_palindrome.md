@@ -18,7 +18,7 @@
  ```
  
  ## Solution
-  - using pop(), pop(0) to check if left and right are equal
+  - pop() , pop(0) 을 이용하여 좌측. 우측 문자가 같은지 확인하는 방법
   
   ```python
   def isPalindrome(self, s: str) -> bool:
