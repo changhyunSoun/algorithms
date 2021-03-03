@@ -1,8 +1,8 @@
 # Reverse String
  - Leetcode #344
  
- 
- ## Write a function that reverses a string. The input string is given as an array of characters `char[]`. 
+ ## 지문
+ Write a function that reverses a string. The input string is given as an array of characters `char[]`. 
  
  **Example 1:**
  ```
