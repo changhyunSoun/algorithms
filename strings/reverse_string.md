@@ -16,7 +16,7 @@
  ```
  
  ## Solution #1
-  - switching left, right index
+  - left, right 변수로 인덱스에 접근하여 좌측과 우측 자리를 교환하는 방법
   
   ```python
   def reverseString(self, s: List[str]) -> None:
@@ -34,7 +34,7 @@
   ```
   
   ## Solution #2
-   - much more simple  using reverse()
+   - reverse()를 사용한 간편한 방법
    
    ```python
    def reverseString(self, s: List[str]) -> None:
