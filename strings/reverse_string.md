@@ -15,7 +15,7 @@
  Output: ["h","a","n","n","a","H"]
  ```
  
- ## Solution #1
+ ## 풀이 #1
   - left, right 변수로 인덱스에 접근하여 좌측과 우측 자리를 교환하는 방법
   
   ```python
@@ -33,7 +33,7 @@
             right -= 1
   ```
   
-  ## Solution #2
+  ## 풀이 #2
    - reverse()를 사용한 간편한 방법
    
    ```python
