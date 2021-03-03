@@ -2,7 +2,7 @@
  - Leetcode #937
 
 
- 
+## 지문
 You are given an array of `logs`. Each log is a space-delimited string of words, where the first word is the **identifier**.
 
 There are two types of logs:
