@@ -17,7 +17,7 @@
  Explanation: "raceacar" is not a palindrome.
  ```
  
- ## Solution
+ ## 풀이
   - pop() , pop(0) 을 이용하여 좌측. 우측 문자가 같은지 확인하는 방법
   
   ```python
