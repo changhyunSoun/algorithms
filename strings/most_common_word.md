@@ -10,7 +10,7 @@
  Words in the paragraph are not case sensitive.  The answer is in lowercase.
 
  
- **Example :**
+ **예제 :**
  ```
  Input: 
  paragraph = "Bob hit a ball, the hit BALL flew far after it was hit."
