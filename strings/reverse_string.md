@@ -4,12 +4,12 @@
  ## 지문
  Write a function that reverses a string. The input string is given as an array of characters `char[]`. 
  
- **Example 1:**
+ **예제 1:**
  ```
  Input: ["h","e","l","l","o"]
  Output: ["o","l","l","e","h"]
  ```
- **Example 2:**
+ **예제 2:**
  ```
  Input: ["H","a","n","n","a","h"]
  Output: ["h","a","n","n","a","H"]
