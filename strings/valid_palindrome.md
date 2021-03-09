@@ -5,13 +5,13 @@
  ## 지문
  Given a string `s`, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
  
- **Example 1:**
+ **예제 1:**
  ```
  Input: s = "A man, a plan, a canal: Panama"
  Output: true
  Explanation: "amanaplanacanalpanama" is a palindrome.
  ```
- **Example 2:**
+ **예제 2:**
  ```
  Input: s = "race a car"
  Output: false
