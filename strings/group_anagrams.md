@@ -10,12 +10,12 @@
  typically using all the original letters exactly once.
 
  
- **Example 1:**
+ **예제 1:**
  ```
  Input: strs = ["eat","tea","tan","ate","nat","bat"]
  Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
  ```
- **Example 2:**
+ **예제 2:**
  ```
  Input: strs = [""]
  Output: [[""]]
